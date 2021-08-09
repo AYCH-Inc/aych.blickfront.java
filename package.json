@@ -75,7 +75,7 @@
     "script-loader": "^0.7.0",
     "source-map-loader": "^0.1.5",
     "style-loader": "^0.13.0",
-    "superstatic": "^4.0.2",
+    "superstatic": "^5.0.2",
     "surge": "^0.18.0",
     "travis-weigh-in": "^1.0.2",
     "uglifyjs-webpack-plugin": "^1.0.1",
